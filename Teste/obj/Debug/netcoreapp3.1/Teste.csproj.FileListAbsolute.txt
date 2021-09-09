@@ -1,0 +1,26 @@
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.exe
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.deps.json
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.json
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.dev.json
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.dll
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.csprojAssemblyReference.cache
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfoInputs.cache
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfo.cs
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.CoreCompileInputs.cache
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.dll
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\prsilva\Documents\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.genruntimeconfig.cache
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.exe
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.deps.json
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.json
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.dev.json
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.dll
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\bin\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.csprojAssemblyReference.cache
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfoInputs.cache
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfo.cs
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.CoreCompileInputs.cache
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.dll
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.pdb
+C:\Users\prsilva\OneDrive - FCRecovery\Documentos\VS-Teste\Teste\Teste\obj\Debug\netcoreapp3.1\Teste.genruntimeconfig.cache
